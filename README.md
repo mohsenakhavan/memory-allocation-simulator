@@ -34,6 +34,12 @@ An interactive educational application that simulates **dynamic memory allocatio
   - Automatic merging of adjacent free blocks
   - Free list management
   - Fragmentation statistics
+    
+### 🖥️ Screenshots
+
+
+<img width="1913" height="1024" alt="image" src="https://github.com/user-attachments/assets/89c13d33-69ec-4c23-9044-03a334273762" />
+
 
 ### 📋 Requirements
 
