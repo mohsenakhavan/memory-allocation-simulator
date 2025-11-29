@@ -1,5 +1,9 @@
 # 🧠 Memory Allocation Simulator | شبیه‌ساز تخصیص حافظه
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 [English](#english) | [فارسی](#persian)
 
 ---
